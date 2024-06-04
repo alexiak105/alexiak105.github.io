@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	margin:0.5em;
+	padding:0;
+	box-sizing: border-box;
+	font-size:16px;
+}
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.sedan-sc-regular {
+  font-family: "Sedan SC", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+
+img,
+iframe {
+max-width: 80%;
+height: auto;
+border:0;
+}
+body{
+  font-family: "Sedan SC", serif;
+text-transform: none;
+font-size:25px;
+}
+body {
+	background-color: aquamarine;
+}
+header{
+background-color:darkslategray;
+}
+
+header,footer {
+	text-align:center;
+	color:white
+}
+h1 {
+font-size:60px;
+color:white;
+text-transform: uppercase;
+font-family: "Poetsen One", sans-serif;
+}
+h2 {
+	font-size:30px;
+    font-family: "Poetsen One", sans-serif;
+	text-transform: uppercase;	
+	color:black;
+}
+h3 {
+	font-size:20px;
+    font-family: "Poetsen One", sans-serif;
+	text-transform: uppercase;	
+	color:black;
+}
+h4 {
+	font-size:30px;
+    font-family: "Poetsen One", sans-serif;
+	text-transform: uppercase;	
+	color:white;
+	text-align: center;
+
+}
+p {
+	font-size:18px;
+}
+li {
+	font-size:18px;
+}
+
+
+.item {
+	background-color: 
+#A3E6B6;
+	padding:1%;
+	Margin:1%;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	border-radius:20px;
+}
+.item li {
+	margin-left:25px;
+}
+
+
+blockquote {
+text-transform: uppercase;
+font-style: italic;
+}
+nav {
+	text-align:center;
+}
+	nav li {
+		display: inline-block;
+	}
+
+nav a {
+backround-color:green;
+color:white;
+text-decoration:none; 
+border-radius:20px;
+	
+}
+
+nav a:hover {
+background-color: black;
+padding: 5px;
+}
+body {
+background-image: url("bg 3.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
